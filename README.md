@@ -32,10 +32,6 @@ I am open to new professional opportunities where I can apply my analytical skil
 ### 🔸 2. Retail Operational Health Analysis
 - **Tools:**  DAX, Excel  
 - **What I did:** Built a sales performance dashboard with KPIs and trends  
-- **View Project:** [Retail Sales Performance](https://github.com/yourusername/project-name)
+- **View Project:** [Retail Sales Performance](https://github.com/Joyanalyst/Retail-Profitability-and-Operational-Health-Analysis)
 
-### 🔸 3. Inventory Management Analysis
-- **Tools:** SQL, Excel  
-- **What I did:** Querying, cleaning, inventory reporting  
-- **View Project:** [GitHub Repository Link](https://github.com/yourusername/project-name)
 
