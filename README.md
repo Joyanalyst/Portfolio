@@ -27,12 +27,12 @@ I am open to new professional opportunities where I can apply my analytical skil
 ### 🔸 1. Amazon Review Analysis
 - **Tools:** Excel, Power BI, MYSQL 
 - **What I did:** Data cleaning, sentiment insights, dashboard creation  
-- **View Project:** [Ananalysis of 12 million amazon product reviews](https://github.com/yourusername/project-name)
+- **View Project:** [Ananalysis of 12 million amazon product reviews](https://github.com/Joyanalyst/Amazon-Product-Review-Analysis)
 
-### 🔸 2. Sales Dashboard (Power BI)
-- **Tools:** Power BI, DAX, Excel  
+### 🔸 2. Retail Operational Health Analysis
+- **Tools:**  DAX, Excel  
 - **What I did:** Built a sales performance dashboard with KPIs and trends  
-- **View Project:** [GitHub Repository Link](https://github.com/yourusername/project-name)
+- **View Project:** [Retail Sales Performance](https://github.com/yourusername/project-name)
 
 ### 🔸 3. Inventory Management Analysis
 - **Tools:** SQL, Excel  
