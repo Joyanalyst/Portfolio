@@ -14,7 +14,7 @@ With 2 years of hands‑on experience leveraging Excel and Power BI, I’ve tran
 - Power BI (DAX, data modeling, interactive reporting)  
 - SQL (intermediate querying)  
 - Data storytelling & reporting  
-- AI tools for productivity and analysis  
+- AI tools for productivity and process automation  
 - Strong communication and collaboration skills
 
 ##  My Ask
