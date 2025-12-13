@@ -18,7 +18,7 @@ With 2 years of hands‑on experience leveraging Excel and Power BI, I’ve tran
 - Strong communication and collaboration skills
 
 ##  My Ask
-I'm looking for a data analytics role in sales and e-commerce where I can bring this blend of data expertise, customer empathy, and growth mindset, helping businesses not just meet targets, but exceed them
+I'm looking for a data analytics role where I can bring this blend of data expertise, customer empathy, and growth mindset, helping businesses not just meet targets, but exceed them
 
 ### let's connect
 
