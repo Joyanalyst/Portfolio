@@ -1,6 +1,6 @@
 # Hi, I'm Joy,
 
-With 2 years of hands‑on experience leveraging Excel and Power BI, I’ve transformed raw data into actionable insights that deliver measurable results. My journey began in the education sector, where I applied analytical tools and AI solutions to improve performance, satisfaction, and engagement.
+With 6 years of hands‑on experience leveraging Excel and Power BI, I’ve transformed raw data into actionable insights that deliver measurable results. My journey began in the education sector, where I applied analytical tools and AI solutions to improve performance, satisfaction, and engagement.
 
 ##  What I’ve Achieved
 - Performance Growth: Designed and implemented data‑driven strategies that boosted academic outcomes by 30%.
