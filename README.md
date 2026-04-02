@@ -14,7 +14,10 @@
 - **What I did:** I analyzed 17,444 orders from an online transactional dataset and uncovered insights into sales patterns and customer behaviour
 - **View Project:** [ Customer Segmentation and Sales Performance Analysis](https://github.com/Joyanalyst/Customer-segmentation-and-sales-performance-analysis)
 
-### 3. 
+### 3. Human Resources Overview
+- **Tools:** Excel, Power BI
+- **What I did:** I analyzed a six-year HR dataset to understand workforce composition, attrition patterns, and tenure distribution.
+- **View Project:** [Human Resources Analytical Overview]
 
 
 ### let's connect
