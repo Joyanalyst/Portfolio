@@ -6,7 +6,7 @@
 ## Projects
 ###  1 . Retail Operational Health Analysis
 - **Tools:**  Excel, Power Pivot, DAX 
-- **What I did:** Built a sales performance dashboard with KPIs and trends  
+- **What I did:** I analyzed a multi-product retail business dataset spanning three years and identified insights into sales seasonality, product return risks, and promotional ROI. 
 - **View Project:** [Retail Sales Performance](https://github.com/Joyanalyst/Retail-Profitability-and-Operational-Health-Analysis)
   
 ### 2. Customer Segmentation and Sales Performance Analysis
