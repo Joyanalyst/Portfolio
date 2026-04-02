@@ -9,7 +9,10 @@
 - **What I did:** Built a sales performance dashboard with KPIs and trends  
 - **View Project:** [Retail Sales Performance](https://github.com/Joyanalyst/Retail-Profitability-and-Operational-Health-Analysis)
   
-### 2. 
+### 2. Customer Segmentation and Sales Performance Analysis
+- **Tools:** Power BI, MySQL
+- **What I did:** I analyzed 17,444 orders from an online transactional dataset and uncovered insights into sales patterns and customer behaviour
+- **View Project:** [ Customer Segmentation and Sales Performance Analysis]
 
 
 ### let's connect
