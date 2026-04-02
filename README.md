@@ -12,7 +12,9 @@
 ### 2. Customer Segmentation and Sales Performance Analysis
 - **Tools:** Power BI, MySQL
 - **What I did:** I analyzed 17,444 orders from an online transactional dataset and uncovered insights into sales patterns and customer behaviour
-- **View Project:** [ Customer Segmentation and Sales Performance Analysis]
+- **View Project:** [ Customer Segmentation and Sales Performance Analysis](https://github.com/Joyanalyst/Customer-segmentation-and-sales-performance-analysis)
+
+### 3. 
 
 
 ### let's connect
