@@ -25,8 +25,7 @@
   1. How review volume influences product ratings.
   2. The impact of discount levels on perceived product quality.
   3. Which product categories deliver the most customer value?
-
-
+ - **View Project** [Amazon Products Reviews](https://github.com/Joyanalyst/Amazon-Product-Review-Analysis)
 
 ### let's connect
 
@@ -34,4 +33,4 @@
 * **Email:** Joyanzaku2016@gmail.com
 * [Resume](https://docs.google.com/document/d/18DMCNZD7-0RcBThf7Xt6r_UFAUDTmU4R_V2KtnXrrHI/edit?usp=sharing)
 * [view my portfolio](https://joyanzaku.carrd.co/)
-  ## Projects
+  
