@@ -19,7 +19,13 @@
 - **What I did:** I analyzed a six-year HR dataset to understand workforce composition, attrition patterns, and tenure distribution.
 - **View Project:** [Human Resources Analytical Overview](https://github.com/Joyanalyst/Human-Resources-Analytics-Overview)
 
-  ### 4. 
+### 4. Analysis of 12 million Amazon Product Reviews
+ - **Tools:** Power BI, MySQL
+ - **What I did:**  I analyzed 12 million Amazon product reviews and uncovered patterns in the following
+  1. How review volume influences product ratings.
+  2. The impact of discount levels on perceived product quality.
+  3. Which product categories deliver the most customer value?
+
 
 
 ### let's connect
