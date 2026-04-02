@@ -17,7 +17,9 @@
 ### 3. Human Resources Overview
 - **Tools:** Excel, Power BI
 - **What I did:** I analyzed a six-year HR dataset to understand workforce composition, attrition patterns, and tenure distribution.
-- **View Project:** [Human Resources Analytical Overview]
+- **View Project:** [Human Resources Analytical Overview](https://github.com/Joyanalyst/Human-Resources-Analytics-Overview)
+
+  ### 4. 
 
 
 ### let's connect
